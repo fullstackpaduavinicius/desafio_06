@@ -1,4 +1,4 @@
-﻿# desafio_06
+﻿# Integração e modelagem de dados de um produto digital
 # DNCommerce API
 
 Bem-vindo à API do DNCommerce, um sistema de gerenciamento de produtos e vendas. Esta API fornece endpoints para gerenciar produtos, clientes e registros de estoque de forma simples e eficiente.
